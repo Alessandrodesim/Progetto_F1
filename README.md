@@ -25,7 +25,7 @@ The .csv files then loaded into the Power BI file.
 
 Sezioni principali / Main Sections.
 1. Statistiche Generali / General Statistics.
-2. 
+
 In questa sezione si analizzano statistiche aggregate di team e piloti.
 This section analyzes aggregated statistics of teams and drivers.
 
